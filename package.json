@@ -1,0 +1,8 @@
+{
+  "name": "npm-link-sync",
+  "version": "1.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
