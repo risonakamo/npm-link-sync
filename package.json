@@ -1,7 +1,7 @@
 {
   "name": "npm-link-sync",
   "version": "1.0.0",
-  "description":"link sync npm packages with global packages",
+  "description": "link sync npm packages with global packages",
   "scripts": {
     "buildrun": "tsc && node build/npm-link-sync",
     "build": "tsc"
